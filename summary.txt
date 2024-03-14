@@ -1,0 +1,2 @@
+    the code above create a color on top of the video and rgba stands for res green blue alpha alpha is
+    responsible for the translucents 
